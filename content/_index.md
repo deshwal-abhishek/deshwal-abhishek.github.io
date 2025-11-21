@@ -4,11 +4,13 @@ title = "Homepage"
 
 ## Hello!
 
-I am a PhD student in [Sustainable Development](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) at Columbia University. My research focuses on environmental economics and development policy, with particular emphasis on how market distortions and institutional failures affect economic outcomes and climate adaptation in developing countries.
+I am a PhD candidate in [Sustainable Development](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) at Columbia University. My research lies at the intersection of energy, environmental economics, and market design. I study how to design policies and allocation mechanisms that improve economic efficiency, accelerate clean energy transitions, and achieve better environmental outcomes.
 
-My work spans several interconnected areas: examining how policy-created misallocation undermines climate policies and long-run productivity growth; analyzing how India's agricultural price support (MSP) policies distort farmers' land-use decisions and inhibit climate adaptation; and the importance of demand management policies for renewable energy integration in developing countries. I specialize in both casual inference and methods from empirical industrial organization to quantify impacts of large-scale government interventions.
+My work addresses three core questions: How should governments allocate scarce resources—like coal for power generation—to improve the effectiveness of environmental policy and incentivize appropriate investment in generation capacity and long-run productivity growth? When markets for risk insurance are incomplete, which risks should governments insure to promote agricultural productivity without distorting production decisions that cause societal welfare loss? And how can we design low-cost dynamic pricing policies that shift electricity demand to periods of renewable abundance while protecting consumer welfare and improving allocation of linked resources like water?
 
-Before joining Columbia, I worked at the [Abdul Latif Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/) for three years as Senior Research Associate. My work in energy, environment and agriculture in India shaped my current research interests, something I am very grateful for.
+Methodologically, I combine causal inference and machine learning with structural modeling and computational methods to evaluate large-scale interventions and simulate counterfactual policy designs. My work spans large-scale experiments, big data, and translating complex model outputs into actionable insights. My recent work on coal allocation and climate policy quantifies multi-billion dollar inefficiencies in current systems and identifies mechanisms that could substantially improve economic and environmental outcomes.
+
+Before joining Columbia, I spent three years at the [Abdul Latif Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/) as a Senior Research Associate, designing and evaluating large-scale experiments in energy and agriculture.
 
 [CV](homepage/CV_AD_20aug2025_website.pdf) (Updated August 2025)
 
