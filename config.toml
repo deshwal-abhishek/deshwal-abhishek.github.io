@@ -15,6 +15,7 @@ name = "Abhishek Deshwal"
       unsafe = true
 
 [params]
+description = "Abhishek Deshwal, PhD candidate in Sustainable Development at Columbia University, studying energy and environmental economics, coal allocation in India, and carbon pricing."
 title = "PhD Student in Sustainable Development,"
 institution = "Columbia University"
 logo = "https://github.com/abhideshwal/abhishek-deshwal.github.io/raw/master/IMG_2073.jpg"

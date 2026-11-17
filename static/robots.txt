@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deshwal-abhishek.github.io/sitemap.xml
